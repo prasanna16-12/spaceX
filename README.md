@@ -1,70 +1,26 @@
-# Getting Started with Create React App
+## Space-X [front-end]
+This app will help user to extract information by applying various Filters like Year,Successfully launch or not and Successfully land or not
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Installation
+To install, simply clone this repository & run the following command  `yarn` or `npm install`, this will install all the dependencies for you.
 
-## Available Scripts
+## Running Project
+To run this project locally, run the following command  `yarn start` or `npm start`, this will start a local instance of the application & you will be able to run the app in your browser at this url http://localhost:3000/.
 
-In the project directory, you can run:
+### Deployment using Netlify
 
-### `npm start`
+Go to `Netlify` [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+>Filters and Launch programs details cards having Spacex launch details fetched from  SpaceX API
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+![Alt text](https://user-images.githubusercontent.com/57058371/118272188-dd64a780-b4df-11eb-8647-fb167c2f9862.png)
 
-### `npm test`
+> After Applying Launch Year Filter and at tablet screen resolution
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Alt text](https://user-images.githubusercontent.com/57058371/118272184-da69b700-b4df-11eb-8728-f48d077f3011.png)
 
-### `npm run build`
+> After Applying Launch Year and mobile screen size
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Alt text](https://user-images.githubusercontent.com/57058371/118272187-dccc1100-b4df-11eb-8c83-39a9639da1f1.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Developed By [Prasana kale](https://github.com/prasanna16-12)
