@@ -23,4 +23,9 @@ Go to `Netlify` [Spacex-Launch-Programs](https://spacex-launch-programs.netlify.
 
 ![Alt text](https://user-images.githubusercontent.com/57058371/118272187-dccc1100-b4df-11eb-8c83-39a9639da1f1.png)
 
+
+> Lighthouse report pdf
+![Untitled Document.pdf](https://github.com/prasanna16-12/spaceX/files/6478933/Untitled.Document.pdf)
+
+
 Developed By [Prasana kale](https://github.com/prasanna16-12)
